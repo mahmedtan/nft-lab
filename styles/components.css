@@ -1,0 +1,26 @@
+@tailwind components;
+
+@layer components {
+  .btn-large {
+    @apply text-base   px-7 py-2.5;
+  }
+
+  .btn-outlined {
+    @apply border-2  rounded-sm border-primaryLight bg-transparent transition-all duration-200 ease-in hover:bg-primaryLight;
+  }
+
+  .day-countdown {
+    @apply text-2xl sm:text-3xl text-primaryLight brightness-150 font-semibold;
+  }
+  .label-countdown {
+    @apply text-lg;
+  }
+
+  .header {
+    background: rgb(17, 8, 26, 0.8);
+
+    box-shadow: 5px 5px 50px -15px black;
+    @apply backdrop-filter
+      backdrop-blur-2xl;
+  }
+}

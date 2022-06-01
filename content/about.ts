@@ -1,0 +1,8 @@
+export const aboutContent =
+  "The metaverse is the successor of the internet, otherwise known as web 3.0. It's where we will work, play, connect, learn, and more. It marks the transition from the World Wide Web, to an Inclusive Social Web enabled by blockchain technology.<br/><br/> One can imagine it as a virtual universe, home to many different worlds, most notably Sandbox, Decentraland, Somnium Space and many more. With the constant advancement of blockchain technology and user experience we will be able to embrace the full potential and immerse ourselves into all the possibilities that come with the metaverse. What already seems to be clear, however, is that real estate, like in the real world, will be one of the prime industries in the metaverse, enabling wealth creation.<br/><br/>The question is, where to invest?<br/><br/> We make it simple for you. We carefully invest across various metaverse worlds after thorough analyses with regards to location and business model, such as value gain, development, rental income. This enables us to establish a diversified digital real estate portfolio while generating sustainable yields. <br/><br/>Genesis Benefits <br/><br/>Diversified metaverse real estate portfolio <br/>Quarterly dividends <br/>DAO voting <br/>Private ownership: Metaverse residential unit <br/> Community events <br/> Community giveaways <br/> <br/>Together we are building real wealth with virtual assets. Join us now!";
+
+export const aboutImageUrls = [
+  "https://genesis-plots.s3.amazonaws.com/about-section/about-section-1.jpg",
+  "https://genesis-plots.s3.amazonaws.com/about-section/about-section-2.jpg",
+  "https://genesis-plots.s3.amazonaws.com/about-section/about-section-3.jpg",
+];

@@ -1,0 +1,19 @@
+@tailwind base;
+
+@layer base {
+  ::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+  }
+
+  body {
+    @apply bg-background;
+  }
+
+  * {
+    @apply text-left;
+  }
+
+  a {
+    @apply font-semibold;
+  }
+}

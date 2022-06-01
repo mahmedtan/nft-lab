@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+:root {
+  --color-primary-light: #5250ae;
+  --color-primary-dark: #5621b9;
+  --color-secondary: #501113;
+  --color-background: rgb(17, 8, 26);
+  --color-foreground: #1c0d26;
+  --color-foreground-light: #21142f;
+
+  --color-font: #fff;
+
+  --color-hero-background: #040507;
+  --color-hero-font: #fff;
+
+  --color-about-background: var(--color-background);
+  --color-about-font: #fff;
+
+  --color-collection-background: rgb(17, 8, 26);
+  --color-collection-font: #fff;
+
+  --color-team-background: rgb(17, 8, 26);
+  --color-team-font: #fff;
+
+  --color-faq-background: rgb(17, 8, 26);
+  --color-faq-font: #fff;
+
+  --color-success: #34d399;
+  --color-failure: #f87171;
+  --color-info: #fbbf24;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px var(--color-background) inset !important;
+
+  -webkit-text-fill-color: var(--color-font) !important;
+}
+input:-webkit-autofill::after {
+}
+
+@import "base.css";
+@import "utilities.css";
+@import "components.css";

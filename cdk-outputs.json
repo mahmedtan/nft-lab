@@ -1,0 +1,7 @@
+{
+  "GP-prod": {
+    "bucketName": "gp-prod-gpprod37ab9583-fugykdq02wnv",
+    "apiUrl": "https://y1sgojg3z0.execute-api.us-east-1.amazonaws.com/",
+    "region": "us-east-1"
+  }
+}
